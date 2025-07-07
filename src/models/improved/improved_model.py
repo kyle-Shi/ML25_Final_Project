@@ -8,9 +8,6 @@ Multi-Scale CNN-Transformer Hybrid (MSCTH) 模型
 3. 残差Transformer编码器 - 改进长期依赖建模
 4. 渐进式预测机制 - 从短期到长期的层次化预测
 5. 注意力权重可视化 - 模型可解释性
-
-作者: AI Assistant
-日期: 2024
 """
 
 import torch
